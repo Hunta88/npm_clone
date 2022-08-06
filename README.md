@@ -1,4 +1,4 @@
- # NPM clone
+ # NPM landing page clone
 
  ### Completed with:
  - VSCode 
